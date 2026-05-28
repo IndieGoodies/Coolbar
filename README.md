@@ -1,4 +1,4 @@
-<img src="images/AppIcon.png" width="200" alt="App icon" align="left"/>
+<img src="https://indiegoodies.com/icons/coolbar.png" width="200" alt="App icon" align="left"/>
 
 <div>
     <h2>Coolbar - Bookmarks in Menu Bar</h2>
